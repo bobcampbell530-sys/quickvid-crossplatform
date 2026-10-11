@@ -2,15 +2,6 @@
 
 A simple cross-platform screen recorder built with Python and ffmpeg. Preserves the original Linux QuickVid behavior while adding macOS and Windows support.
 
-## Quick Start
-
-```bash
-python3 quickvid_crossplatform_v3.py              # Toggle: start/stop
-python3 quickvid_crossplatform_v3.py --start       # Start recording
-python3 quickvid_crossplatform_v3.py --stop        # Stop recording
-python3 quickvid_crossplatform_v3.py --status      # Show status
-python3 quickvid_crossplatform_v3.py --list-devices # Show audio/screen devices
-```
 
 ## Platform Dependencies
 

@@ -45,6 +45,13 @@ A simple cross-platform screen recorder built with Python and ffmpeg. Preserves 
 - Rectangle must be supplied via `--region X,Y,W,H`
 - Microphone device selection is platform-dependent
 
+## Related Projects
+
+All written in Python 3:
+
+- **Runner Tracker** — https://github.com/bobcampbell530-sys/runner-tracker  
+  Live race tracking for trail races, marathons, and ultra events.
+
 ## License
 
 MIT

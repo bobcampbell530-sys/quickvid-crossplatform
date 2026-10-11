@@ -49,6 +49,9 @@ A simple cross-platform screen recorder built with Python and ffmpeg. Preserves 
 
 All written in Python 3:
 
+- **Fertility & Cycle Tracker** — https://github.com/bobcampbell530-sys/fertility-tracker  
+  Comprehensive cycle tracking with ovulation prediction, moon phases, and nutrition.
+
 - **Runner Tracker** — https://github.com/bobcampbell530-sys/runner-tracker  
   Live race tracking for trail races, marathons, and ultra events.
 
